@@ -1,8 +1,8 @@
-<h1 align="center"> Pong com Javascript </h1> 
+<h1 align="center"> Pong no scratch</h1> 
 
 <h3 align="center"> 
-Projeto feito na aula ::01 de Lógica de Programação:: 
-  Jogos clássicos parte 1: Pong com Javascript
+Projeto ::01 de Lógica de Programação:: 
+  Jogos clássicos parte 1: Pong com Scratch e Javascript
 </h3>
 
 <h4 align="center"> 
